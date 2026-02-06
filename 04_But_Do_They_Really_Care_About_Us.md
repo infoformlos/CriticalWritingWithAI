@@ -67,7 +67,7 @@ Interagiert mit ELIZA. Übernehmt dabei am besten eine Rolle mit einer Geschicht
 
 **Ziel:** Gleiche Engine, andere Persona — zeigt, wie Daten und Verarbeitungsregeln den Eindruck verschieben.
 
-Verändert gemeinsam (Google Colab Notebook wird bereitgestellt) folgende Parameter:
+Verändert gemeinsam [Notebook öffnen](ELIZA_Doctor_Script.ipynb) folgende Parameter:
 
 - **Tonalität:** Antworten von neutral-therapeutisch → sachlich-bürokratisch / streng-autoritätsgläubig / poetisch-assoziativ
 - **Frageformen:** Statt offener Spiegelungsfragen mehr hypothetische oder konfrontative Rückfragen
