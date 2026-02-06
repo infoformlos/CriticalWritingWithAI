@@ -2,6 +2,7 @@
 
 **Seminar**  
 **Format:** 6 Doppelsitzungen (je 4,5 Stunden) oder alternierend 12 Einzelsitzungen (Theorie/Praxis)
+Das Notebook kann hier ausprobiert werden: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/infoformlos/CriticalWritingWithAI/HEAD)
 
 ---
 
