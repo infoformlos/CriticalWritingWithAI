@@ -76,25 +76,6 @@ Das Ergebnis ist nicht nur eine Kurzgeschichte, sondern ein dokumentierter Proze
 | [05_Glitch_World.md](05_Glitch_World.md) | Doppelsitzung 5: KI-Ästhetik, Stilanalyse, Constraint-based Prompting |
 | [06_AI_is_A_Piece_of_Work.md](06_AI_is_A_Piece_of_Work.md) | Doppelsitzung 6: Ressourcenverbrauch, Präsentationen, Abschlussreflexion |
 
-## Quelldokumente (PDF)
-
-| Datei | Zuordnung |
-|-------|-----------|
-| `Mapping_the_Machine_Writing_With_AI_as_A_Critical_Practice.pdf` | **Vollständiger Seminarplan** (Referenzdokument) |
-| `1__Einfu_hrung_Vibemanagement.pdf` | Sitzung 1: Einführung, Vorerfahrungen, Brainstorming-Übung |
-| `2__Rollenspiel_mit_Chatbot___ELIZA.pdf` | Sitzung 4: ELIZA-Hintergrund, Live-Tryout, Persona-Hacking |
-| `3__Von_der_Idee_zum_Konzept.pdf` | Sitzung 2–3: Exzerpt „The Nooscope Manifested" (Pasquinelli & Joler) |
-| `4__DatensatzU_bungen.pdf` | Sitzung 2: Civil Comments analysieren, Mini-Trainingsdatensatz anlegen |
-| `4__How_To_Do_Things_With_Datasets.pdf` | Sitzung 2: Exzerpt Crawford/Paglen „Excavating AI" |
-| `5__Discriminating_Data.pdf` | Sitzung 2: Exzerpt Wendy Hui Kyong Chun + Diskussionsimpulse |
-| `5__U_bung_Das_CharakterAudit.pdf` | Sitzung 4: Figurensteckbrief, Bias-Audit, Intervention |
-| `6__Fletcher___Why_Computers_Will_Never_Read_or_Write_Literature.pdf` | Sitzung 3: Exzerpt Fletcher + Übungen |
-| `7__Animo_Nullius___Jonnie_Penn.pdf` | Sitzung 6: Exzerpt Penn – Datenkolonialismus, animo nullius |
-| `8__Weltenbau.pdf` | Sitzung 2: Worldbuilding-Übung (Eisberg-Prinzip) |
-| `9__Stil.pdf` | Sitzung 5: Stilanalyse, Stil-Transfer, Constraint-based Prompting |
-| `U_bung_3_Eine_Kurzgeschichte__mit_KI.pdf` | Sitzung 3: Kurzgeschichte entwickeln |
-| `Arbeitsblatt_Ein_Prompt_und_sein_Ressourcenverbrauch.pdf` | Sitzung 6: Energie- & Wasserverbrauch berechnen |
-
 ---
 
 ## Tools & Infrastruktur
