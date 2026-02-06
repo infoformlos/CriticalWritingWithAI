@@ -1,6 +1,6 @@
 # Mapping the Machine: Writing With AI as A Critical Practice
 
-**Seminar — Sommersemester 2026**  
+**Seminar**  
 **Format:** 6 Doppelsitzungen (je 4,5 Stunden) oder alternierend 12 Einzelsitzungen (Theorie/Praxis)
 
 ---
