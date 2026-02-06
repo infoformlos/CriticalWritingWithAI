@@ -1,0 +1,5 @@
+# Requirements für Critical Writing With AI
+# Dieses Notebook (ELIZA) nutzt nur Standard-Bibliotheken.
+# ipykernel wird für die Jupyter-Umgebung (Binder) benötigt.
+
+ipykernel
